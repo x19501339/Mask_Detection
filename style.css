@@ -1,0 +1,31 @@
+
+.B1{
+    height: 200px;
+    width: 75%;
+    background-color: grey;
+    margin: auto;
+}
+
+.H1{
+    margin-left: 40%;
+    color: white;
+}
+
+.H2{
+    margin-left: 35%;
+    color: white;
+}
+
+.face_img{
+    margin-left: 40%;
+}
+
+.btn1{
+    margin-left: 45%;
+    color: white;
+}
+
+.btn2{
+    margin-left: 45%;
+    color: white;
+}

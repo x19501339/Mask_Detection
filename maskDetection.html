@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<title></title>
+<head>
+    <link  rel="stylesheet" href="style.css">
+</head>
+<body>
+    <button class="btn3"><a href="gui.html">Back</a></button>
+    <div class = "B1">
+        <h1 class = "H1">Mask Detection</h1>
+        <h1 class = "H2">Powered by Python</h1>
+    </div>
+    <br>
+    <button class="btn2" onclick="faceDetection()"><a href="#">Mask Detection</a></button> <!-- just added onclick event. It calls faceDetection() when the button is clicked -->
+
+</body>
+<script>
+    function faceDetection() {
+        const {PythonShell} = require('python-shell') // Importing the library
+
+        // Instead of 'null' you can add options (mode, path to desired python version, args for python script.)
+        // the third argument is a callback function - it's called when the program finishes. Displays error if there is one (or more).
+        PythonShell.run('Face_Detection.py', null, function (err) {
+            if (err) throw err;
+            console.log('finished');
+        });
+    }
+</script>
+</html>
