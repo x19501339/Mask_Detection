@@ -5,7 +5,7 @@
 
 # Logic Diagram For Mask Detection 
 
-
+![Mask Detection](https://user-images.githubusercontent.com/56543963/171002995-ff3413cc-ddcc-47f6-8044-4164eaa3811a.jpg)
 
 
 # electron-quick-start
