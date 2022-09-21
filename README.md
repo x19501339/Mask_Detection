@@ -11,6 +11,7 @@
 
 ![image](https://user-images.githubusercontent.com/56543963/191553764-66fdad38-9071-40ac-bb85-b2c5f4b67d98.png)
 
+![image](https://user-images.githubusercontent.com/56543963/191553950-8df659df-a067-4d15-9f2c-2cb4521502f5.png)
 
 
 # Logic Diagram For Mask Detection 
