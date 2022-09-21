@@ -2,6 +2,7 @@
 
 
 ![UML Diagram](https://user-images.githubusercontent.com/56543963/171002452-a46ef88d-7e65-49b4-aad1-7cc44c3c3cf8.jpg)
+![image](https://user-images.githubusercontent.com/56543963/191552909-addc5ffb-2b66-4ae0-8fda-e11a47d80de5.png)
 
 # Logic Diagram For Mask Detection 
 
