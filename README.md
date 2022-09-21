@@ -3,26 +3,25 @@
 
 ![UML Diagram](https://user-images.githubusercontent.com/56543963/171002452-a46ef88d-7e65-49b4-aad1-7cc44c3c3cf8.jpg)
 
-#Use Case Diagram 1
+# Use Case Diagram 1
 
 ![image](https://user-images.githubusercontent.com/56543963/191552909-addc5ffb-2b66-4ae0-8fda-e11a47d80de5.png)
 
-#Use Case Diagram 2
+# Use Case Diagram 2
 
 ![image](https://user-images.githubusercontent.com/56543963/191553253-ae9cb609-de67-4f85-be62-9542b6a82183.png)
 
-#Class Diagram
+# Class Diagram
 
 ![image](https://user-images.githubusercontent.com/56543963/191553579-831690a2-b9a3-4f9e-8d93-b6c124ac1882.png)
 
-#Sequence Diagram 
+# Sequence Diagram 
 
 ![image](https://user-images.githubusercontent.com/56543963/191553764-66fdad38-9071-40ac-bb85-b2c5f4b67d98.png)
 
-#ERD Diagram
+# ERD Diagram
 
 ![image](https://user-images.githubusercontent.com/56543963/191553950-8df659df-a067-4d15-9f2c-2cb4521502f5.png)
-
 
 # Logic Diagram For Mask Detection 
 
